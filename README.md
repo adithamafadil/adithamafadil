@@ -12,5 +12,6 @@ You may check my portofolio at [dribbble](https://dribbble.com/fadirru)
 ### 📧 Rech me on:
 
 - Mail to: [Fadil Nugraha Adithama](mailto:dil.projek@gmail.com)
-- Personal Instagram: [@dilfadiln](https://www.instagram.com/dilfadiln/)
+- Medium: [Fadil Nugraha Adithama](https://medium.com/@adithamafadil)
 - LinkedIn: [Fadil Nugraha Adithama](https://www.linkedin.com/in/adithamafadil/)
+- Personal Instagram: [@dilfadiln](https://www.instagram.com/dilfadiln/)

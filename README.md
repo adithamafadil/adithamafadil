@@ -9,7 +9,7 @@ You may check my designs at [dribbble](https://dribbble.com/fadirru)
 
 And currently I'm learning to write articles at [Fadil Nugraha Adithama](https://medium.com/@adithamafadil)
 
-![fadirru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadirru&&show_icons=true&count_private=true&title_color=6F9EFE&icon_color=A8FE6F&text_color=F0F0FA&bg_color=161616)
+![fadirru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithamafadil&&show_icons=true&count_private=true&title_color=6F9EFE&icon_color=A8FE6F&text_color=F0F0FA&bg_color=161616)
 
 ### 📧 Rech me on:
 

@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Im Fadil Nugraha Adithama, you can call me Fadil or Dil.
-Im a Junior Software Developer especially Mobile App Developer using Flutter.
+Im a Software Developer especially Mobile App Developer using Flutter.
 
 Currently Im a Software Engineer (Mobile) at Ruangguru.
 I kinda like to do UI/UX designs using Adobe XD and Figma.
